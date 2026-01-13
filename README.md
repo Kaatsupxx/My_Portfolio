@@ -8,4 +8,4 @@ Hi I'm Katrina Rose. I have experience in data entry, typing, data validation an
 - Accuracy and attention to detail
 
 ## Samples
-This repository contains sample files demonstrating my work quality and accuracy.
+This portfolio contains sample data entry work, including spreadsheets, typing tasks and data validation samples.
