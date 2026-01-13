@@ -1,10 +1,9 @@
-# Katrina Rose Calvez - My Portfolio
+# Katrina Rose - My Portfolio
 
 Hi I'm Katrina Rose. I have experience in data entry, typing, data validation and admin support.
 
 ## Skills
 - Data Entry & Data Processing
-- Typing from images to text
 - Spreadsheet management (Excel, Google Sheet)
 - Accuracy and attention to detail
 
